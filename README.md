@@ -13,7 +13,14 @@ Para iniciar o `script` basta digitar o seguinte comando:
 ```sh
 $ ./app.sh
 ```
-
+### Estrutura
+```bash
+PyAutoInstaller
+├── app.sh     # Arquivo principal
+├── files/     # Pasta files (deve ficar em branco)
+├── LICENSE    # Licença
+└── README.md  # README.md
+```
 ## Licença
 Este projeto está licenciado sobre a liceça [MIT](./LICENSE)
 
