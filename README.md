@@ -24,6 +24,9 @@ PyAutoInstaller
 ## Licença
 Este projeto está licenciado sobre a liceça [MIT](./LICENSE)
 
+<br>
+<br>
 ---
-
-Create with 🤍 by [Ahosall (Feh's)](https://github.com/Ahosall)
+<div align="center">
+  Create with 🤍 by <a href="https://github.com/Ahosall">Ahosall (Feh's)</a>.
+</div>
