@@ -26,6 +26,7 @@ Este projeto está licenciado sobre a liceça [MIT](./LICENSE)
 
 <br>
 <br>
+
 ---
 <div align="center">
   Create with 🤍 by <a href="https://github.com/Ahosall">Ahosall (Feh's)</a>.
