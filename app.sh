@@ -121,6 +121,7 @@ function installPy() {
   cd files/
   tar -zxf installer.tgz
   mv Python-3.9.1 installer
+  cd installer
   
   echo ''
   echo '    [SYS]: Starting python3.9 installation ... Dont stop the script once its started!'
